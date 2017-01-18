@@ -1,0 +1,51 @@
+.bg-intro {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    width: 100%;
+    background-image: url(deathstar.jpg);
+    background-size: cover;
+}
+
+.bg-gray {
+    width: 100%;
+    background-color: #9d9d9d;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-fleet {
+    width: 100%;
+    background-image: url(rebelfleet.jpg);
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.bg-footer {
+    width: 100%;
+    background-color: black;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text-white {
+    color: white;
+}
+
+#intro-heading {
+    font-family: 'Anton', sans-serif;
+    color: white;
+}
+
+.text-shadow {
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.icon {
+    color: white;
+    font-size: 26px;
+}
+
+a:hover {
+    color: #9d9d9d;
+}
